@@ -3139,6 +3139,9 @@
 	margin-top: 10px;
 	font-weight: bolder;
 }
+.button-width{
+	width: 200px;
+}
 /* Footer */
 
 	#footer {
